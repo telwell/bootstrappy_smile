@@ -1,0 +1,30 @@
+.add-big-margin {
+  margin-top: 80px; }
+
+.add-sm-margin {
+  margin-top: 20px; }
+
+.float-right {
+  float: right; }
+
+.eyebrow {
+  background-color: LightGrey;
+  height: 100px; }
+
+.eye {
+  background-color: LightBlue;
+  height: 20px; }
+
+.nose {
+  background-color: blue;
+  height: 100px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  line-height: 100px; }
+
+.mouth {
+  background-color: DarkRed;
+  height: 50px; }
+
+/*# sourceMappingURL=style.css.map */
